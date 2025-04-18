@@ -1,0 +1,17 @@
+Ryan Schermerhorn
+4/18/2025
+Design Decisions
+
+•		Justify development choices for your 3D scene. Think about why you chose your selected objects. Also consider how you were able to program for the required functionality.
+I chose the fishing scene because it is one of my favorite hobbies, I also bit off a little more than I could chew with the scene, but I did try my best to make it look like a 
+realistic fishing scene. I knew that I would have the ability to use the water to my advantage and make the raft/bobber look as if they are floating. I really wanted to get the fish, 
+but it turned out to be above my current abilities.
+
+•		Explain how a user can navigate your 3D scene. Explain how you set up to control the virtual camera for your 3D scene using different input devices.
+Following the requirements, the navigation of the 3D scene includes using the WASD keys for movements in, out, left and right, and Q / E for up & down. 
+I tried quite a few times to get the scroll wheel to control the speed of the camera & O/P for the ortho and normal view but had quite a few issues. Ultimately, 
+I couldn’t get either of those features to work.
+
+•		Explain the custom functions in your program that you are using to make your code more modular and organized. Ask yourself, what does the function you developed do and how is it reusable?
+I was very meticulous about commenting on the code and keeping all the code as organized as possible. Keeping all scene items within the scene manager and all the camera items within the 
+view manager. Having the base code laid out was a huge help with keeping all the code easy to read and build off of.
